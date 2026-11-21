@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    colour: brown;
+    font-size: 24px;
+    border:3px solid yellow;
+    border-radius: 10px;
+}
+P{
+    text-align: center;
+    colour:black;
+    font-size: 18px;
+}
